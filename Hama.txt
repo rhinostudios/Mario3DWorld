@@ -1,0 +1,27 @@
+Super Mario 3D World 
+A game for four players on PC
+================================================
+
+http://www.portalroms.com/en/wii-u/super-mario-3d-world-iso-download-torrent
+http://www.emulation64.com/files/info/1475/cemu-1-5-1.html/     Program
+https://www.youtube.com/watch?v=HUwPKC-yYYA	Linux Instructions
+   https://wiki.winehq.org/Ubuntu		Wine Player for Program
+
+Requirements:
+CPU: x64         e.g. 15-6500
+NVIDIA GPU: Runs as expected on most recent driver.
+AMD GPU: Runs as expected on most recent driver
+Intel GPU: Not officially supported. Heavy visual glitches.
+
+OS: Manjaro (Fluxbox with no compositing)
+https://sourceforge.net/projects/manjarolinux/files/release/16.10.3/kde/
+
+Use free -m, in MBs e.g 7956 = 8GB total  
+RAM: 4 GB minimum, 6 GB or more recommended
+
+Use wine -v and wine --version to check
+Wine 1.9.17-staging
+
+Use uname -r and uname -m to check
+Kernel: 4.3.0 (x86_64)
+
