@@ -1,0 +1,66 @@
+README
+==================================================
+
+This disc contains the following 
+	Cemu Program to run games on Win10
+	Super Mario 3D World as SM3DW.wux
+	Wii U games can be Downloaded from net
+	All games stored as .wud
+
+COMPRESSION
+================================================
+Disk space can be saved by compression.
+Games stored as .wud about 25GB 
+Drag onto WUDCompressor.exe to
+convert it to a .wux about 2.5GB
+-Games can be stored about 10x compacted
+
+This has been done for you !
+
+USAGE
+================================================
+Get started, Extract all from Disk to your PC
+as this Program needs to access main CPU, GPU
+
+First set the controls, Use your PC Keyboard 
+or if you want to Plug in any USB GameController
+do so before starting CEMU
+
+Open Cemu.exe          Options> Input Settings
+In the New Window from Top Drop Down box 
+select "Wii U Pro Controller"
+and for next Drop Down box 
+select  "Keyboard" or find your "USB Controller"
+
+If using keyboard, you can use our Template
+so, at bottom of window click "Import" button.
+-Navigate to the "Keyboard.ccc" file included
+
+Click "Save" to use template or "Clear" to set
+your own buttons for program
+
+The Template uses this Legend:
+Wii U 			||||			PC
+=========================================
+Movement					Arrow Keys
+A							Space Bar
+B							B
+X							X
+Y							Z
+L							C
+R							V
+ZL							LSHIFT
+ZR							RSHIFT
++							+
+-							-
+
+
+START A GAME
+==================================================
+
+Open Cemu.exe, select File> Open> Navigate to game
+		e.g. SM3DW.wux or fmk8r.wux is Mario Kart
+
+To Download more games, search GAMENAME.wud on the net
+
+Congrats! 			All good to go, Enjoy XD
